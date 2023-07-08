@@ -1,6 +1,6 @@
 # Expense tracker using React & Redux toolkit
 
-![preview]([expense-tracker/public/preview.gif](https://github.com/I-am-Shibly/CRUD-application-in-react-and-redux-toolkit/blob/main/public/preview.gif))
+![preview](https://github.com/I-am-Shibly/CRUD-application-in-react-and-redux-toolkit/blob/main/public/preview.gif?raw=true)
 
 ## Build Setup
 ### Go to root folder and run
